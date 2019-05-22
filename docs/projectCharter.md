@@ -10,7 +10,7 @@
 <div class="container">
 <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
         <a class="navbar-brand js-scroll-trigger" href="#">           
-            Project Charter: Online Food Delivering App
+            Project Charter: 
         </a>
 </nav>
 </div>
@@ -32,7 +32,7 @@ User can login and add food to the cart and proceed to check out for delivery. U
 
 
 
-h2>Stake Holder Registry</h2><br>
+<h2>Stake Holder Registry</h2><br>
 <table style="width:100%;border: 1px solid black;">
   <tr>
     <th>Name of the StakeHolder</th>
