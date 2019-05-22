@@ -104,4 +104,18 @@ h2>Stake Holder Registry</h2><br>
 <h2>Project Scope:</h2><hr />
 <p> During <b>Phase 1</b>, Project Initiation
 <p>The team members work independently</p>
+<p> Deliverables:</p><hr />
+ <li> Project Charter</li>
+ <li> StakeHolder Registry</li>
+ <li> Use cases and mock ups</li>
+ <li> Schedule and Budget documents</li>
+ <br>
+ <p> During <b>Phase 2</b>, Definition and planning</p>
+ <p> Deliverables:</p><hr />
+ <li> ER diagrams</li>
+ <li> Product Backlog</li>
+ <li> User Stories</li>
+ <li> List of projects, define Spints,Epics in JIRA</li>
+ <li>Define tasks, subtasks, provide estimates and deadlines in JIRA</li>
+ <br>
 
