@@ -57,11 +57,26 @@ h2>Stake Holder Registry</h2><br>
     <td>
 	Applied Computer Science</td>	 
 	 <td>Internal</td> 
-	 <td>Develop ,test and validate code</td>
+	 <td>Web Developer</td>
 	  <td>sonam.gadekari@gmail.com</td> 
   </tr>
   <tr>
     <td>Harika Naidu</td>
     <td>Developer</td> 
     <td>
+    Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>nagaharika.n@gmail.com</td> 
+  </tr>
+  <tr>
+    <td>Havya Ravipati</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>havya.ravipati@gmail.com</td> 
+  </tr>
+
 
