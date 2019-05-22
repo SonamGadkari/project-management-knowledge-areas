@@ -78,5 +78,25 @@ h2>Stake Holder Registry</h2><br>
 	 <td>Develop,test and validate code</td>
 	  <td>havya.ravipati@gmail.com</td> 
   </tr>
+<tr>
+    <td>KeerthiSree kukkunoor</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>keerthi.sree@gmail.com</td> 
+  </tr>
+</table>
+<br>
+ <h3>Schedule:</h3>
+ <hr />
+ <p>The following scheduled will be implemented.</p>
+<li>Phase 1 completed and presented at the end of week 2.(sprint1)</li>
+<li>Phase 2 completed and presented at the end of week 4.(sprint2)</li>
+<li>Phase 3 completed and presented at the end of week 6.(sprint3)</li>
+<li>Phase 4 finalized and published at the end of week 8.(sprint4)</li>
+<li>Project reflections and discussions during week 8.</li>
+<br>
 
 
