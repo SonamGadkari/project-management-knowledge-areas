@@ -118,4 +118,15 @@ User can login and add food to the cart and proceed to check out for delivery. U
  <li> List of projects, define Spints,Epics in JIRA</li>
  <li>Define tasks, subtasks, provide estimates and deadlines in JIRA</li>
  <br>
+<p> During <b>Phase 3</b>, Implementation and Execution</p>
+ <li> Make progress in the work </li>
+ <li> Resolve impedements</li>
+ <li> Deliver a usable product at the end of every sprint</li>
+<br>
+ <p> During <b>Phase 4</b>, Iterations and Transition</p>
+ <li>Release and live run</li>
+ <li> Improvements,Enhacements to the application</li>
+</div>
+</body>
+</html>
 
