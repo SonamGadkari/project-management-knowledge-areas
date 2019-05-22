@@ -64,8 +64,9 @@ https://github.com/SonamGadkari/project-management-knowledge-areas/blob/master/d
 
 # Signatures:
 
-Havya Ravipati
-Keerthi sree Kukunoor
+Havya Ravipati<br>
+Keerthi sree Kukunoor<br>
+Harika Naidu
 
 
 
