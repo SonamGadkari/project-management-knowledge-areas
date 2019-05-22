@@ -18,3 +18,7 @@
 <br />
 <div class="container">
 <h2>Project Information:</h2><hr />
+<p>The implementation employs HTML,CSS,Javascript,Node.Js,Express and Bootstrap. 
+We explored these technology areas and implemented them in the food delivery application. 
+Using this web application user can browse through list of available products in the store and order them.
+User can login and add food to the cart and proceed to check out for delivery. User can browse the detailed information about a product.</p>
