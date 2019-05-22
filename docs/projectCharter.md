@@ -18,7 +18,7 @@
 <br />
 <div class="container">
 <h2>Project Information:</h2><hr />
-<p>Using this website a learner can take a quiz on knowledge areas and process groups and read more about the topics.This project helps students understand 10 Knowledge Areas and 5 process groups. The implementation employs HTML,CSS,Javascript,Node.Js,Express and Bootstrap. Using this web application students can browse through list of available Project management quizes in the website.
+<p>Using this website a learner can take a quiz on knowledge areas and process groups and read more about the topics.This project helps students understand 10 Knowledge Areas and 5 process groups.If a student/learner get a score of 90% ,a certificate of learning would be issued acknowledging a student efforts. The implementation employs HTML,CSS,Javascript,Node.Js,Express and Bootstrap. Using this web application students can browse through list of available Project management quizes in the website.
 User can login and take the quizes whenever they want.</p>
 <h2>Project Team</h2><hr />
  <li>Sonam Gadekari</li>
