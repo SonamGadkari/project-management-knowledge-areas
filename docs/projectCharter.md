@@ -37,3 +37,18 @@ h2>Stake Holder Registry</h2><br>
   <tr>
     <th>Name of the StakeHolder</th>
     <th>Role in the project</th> 
+<th>Department</th>
+	<th>Type of StakeHolder</th>
+	<th>Expectations</th>
+	<th>Contact Info</th>
+  </tr>
+  <tr>
+    <td>Dr.Denise Case</td>
+    <td>Mentor</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>External</td> 
+	 <td>Provide review comments and suggest improvements</td>
+	  <td>Maryville,Missouri</td> 
+  </tr>
+  <tr>
