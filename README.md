@@ -9,8 +9,9 @@ https://github.com/SonamGadkari/project-management-knowledge-areas
 ## Team Name: The Amazons 
 
 ## Team Logo:
-![Logo](https://github.com/SonamGadkari/project-management-knowledge-areas/blob/master/TeamLogo.png)
+![logo](https://user-images.githubusercontent.com/43020059/58181229-06475e80-7c71-11e9-9697-2a5a70c4cdcf.JPG)
 
+Logo developed using https://secure.logomaker.com
 
 ## Team Members:
 Havya Ravipati<br>
