@@ -10,7 +10,7 @@
 <div class="container">
 <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
         <a class="navbar-brand js-scroll-trigger" href="#">           
-            Project Charter: Project Management Knowledge areas quizz.
+            Project Charter: Project Management Knowledge areas and process groups quiz.
         </a>
 </nav>
 </div>
