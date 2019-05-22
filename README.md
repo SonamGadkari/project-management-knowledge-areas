@@ -54,12 +54,15 @@ Attempt to create visually appealing sites that feature user-friendly design and
 
 ## Link to Project charter page:
 
+https://github.com/SonamGadkari/project-management-knowledge-areas/blob/master/docs/projectCharter.md
+
 
 ## Link to Stakeholder registry: 
 
 
 
-Signatures:
+
+# Signatures:
 
 Havya Ravipati
 Keerthi sree Kukunoor
