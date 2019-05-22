@@ -60,14 +60,15 @@ https://github.com/SonamGadkari/project-management-knowledge-areas/blob/master/d
 
 ## Link to Stakeholder registry: 
 
-
+https://github.com/SonamGadkari/project-management-knowledge-areas/blob/master/docs/stakeHolderRegistry.md
 
 
 # Signatures:
 
 Havya Ravipati<br>
 Keerthi sree Kukunoor<br>
-Harika Naidu
+Harika Naidu<br>
+Sonam Gadekari<br>
 
 
 
