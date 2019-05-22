@@ -9,6 +9,7 @@ https://github.com/SonamGadkari/project-management-knowledge-areas
 ## Team Name: The Amazons 
 
 ## Team Logo:
+![Logo](https://github.com/SonamGadkari/project-management-knowledge-areas/blob/master/TeamLogo.png)
 
 
 ## Team Members:
