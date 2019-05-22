@@ -49,7 +49,7 @@ User can login and take the quizes whenever they want.</p>
     <td>Designing, coding and modifying websites, from layout to function and according to a client's specifications.</td>
 	</tr>
 	<tr>
-		<td>Keerthi sree Kukunoor/td>
+		<td>Keerthi sree Kukunoor</td>
     <td>UI Developer</td> 
     <td>Attempt to create visually appealing sites that feature user-friendly design and clear navigation</td>
 		</tr>	
