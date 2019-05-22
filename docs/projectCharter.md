@@ -57,11 +57,51 @@ User can login and add food to the cart and proceed to check out for delivery. U
     <td>
 	Applied Computer Science</td>	 
 	 <td>Internal</td> 
-	 <td>Develop ,test and validate code</td>
+	 <td>Web Developer</td>
 	  <td>sonam.gadekari@gmail.com</td> 
   </tr>
   <tr>
     <td>Harika Naidu</td>
     <td>Developer</td> 
     <td>
+    Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>nagaharika.n@gmail.com</td> 
+  </tr>
+  <tr>
+    <td>Havya Ravipati</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>havya.ravipati@gmail.com</td> 
+  </tr>
+<tr>
+    <td>KeerthiSree kukkunoor</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>keerthi.sree@gmail.com</td> 
+  </tr>
+</table>
+<br>
+ <h3>Schedule:</h3>
+ <hr />
+ <p>The following scheduled will be implemented.</p>
+<li>Phase 1 completed and presented at the end of week 2.(sprint1)</li>
+<li>Phase 2 completed and presented at the end of week 4.(sprint2)</li>
+<li>Phase 3 completed and presented at the end of week 6.(sprint3)</li>
+<li>Phase 4 finalized and published at the end of week 8.(sprint4)</li>
+<li>Project reflections and discussions during week 8.</li>
+<br>
+<h3>Budget</h3><hr />
+<p>Free of Cost</p>
+
+<h2>Project Scope:</h2><hr />
+<p> During <b>Phase 1</b>, Project Initiation
+<p>The team members work independently</p>
 
