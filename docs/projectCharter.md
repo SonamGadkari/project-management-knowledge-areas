@@ -28,3 +28,6 @@ User can login and add food to the cart and proceed to check out for delivery. U
  <li>Keerthi Sree Kukunoor</li>
  <li>Havya Ravipati</li>
 <br>
+<h2>Stories by Role</h2><hr />
+<p> Keerthi:As a developer, I want to design the detailed view page of a product,so that the customer can browse the detailed information about a product.</p>
+<p> Havya:As a developer,I want to design a contact page,so that the customer can initiate any grievances.</p>
