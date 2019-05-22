@@ -19,9 +19,9 @@
 <div class="container">
 <h2>Project Information:</h2><hr />
 <p>The implementation employs HTML,CSS,Javascript,Node.Js,Express and Bootstrap. 
-We explored these technology areas and implemented them in the food delivery application. 
-Using this web application user can browse through list of available products in the store and order them.
-User can login and add food to the cart and proceed to check out for delivery. User can browse the detailed information about a product.</p>
+We explored these technology areas and implemented them in this application. 
+Using this web application students can browse through list of available Project management quizes in the website.
+User can login and take the quizes whenever they want.</p>
 <h2>Project Team</h2><hr />
  <li>Sonam Gadekari</li>
  <li>Harika Naidu</li>
