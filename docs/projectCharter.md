@@ -52,3 +52,16 @@ h2>Stake Holder Registry</h2><br>
 	  <td>Maryville,Missouri</td> 
   </tr>
   <tr>
+  <td>Sonam Gadekari</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>	 
+	 <td>Internal</td> 
+	 <td>Develop ,test and validate code</td>
+	  <td>sonam.gadekari@gmail.com</td> 
+  </tr>
+  <tr>
+    <td>Harika Naidu</td>
+    <td>Developer</td> 
+    <td>
+
