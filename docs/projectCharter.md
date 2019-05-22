@@ -22,3 +22,9 @@
 We explored these technology areas and implemented them in the food delivery application. 
 Using this web application user can browse through list of available products in the store and order them.
 User can login and add food to the cart and proceed to check out for delivery. User can browse the detailed information about a product.</p>
+<h2>Project Team</h2><hr />
+ <li>Sonam Gadekari</li>
+ <li>Harika Naidu</li>
+ <li>Keerthi Sree Kukunoor</li>
+ <li>Havya Ravipati</li>
+<br>
