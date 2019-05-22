@@ -115,11 +115,11 @@ User can login and take the quizes whenever they want.</p>
  <h3>Schedule:</h3>
  <hr />
  <p>The following scheduled will be implemented.</p>
-<li>Phase 1 completed and presented at the end of week 2.(sprint1)</li>
-<li>Phase 2 completed and presented at the end of week 4.(sprint2)</li>
-<li>Phase 3 completed and presented at the end of week 6.(sprint3)</li>
-<li>Phase 4 finalized and published at the end of week 8.(sprint4)</li>
-<li>Project reflections and discussions during week 8.</li>
+<li>Phase 1 team works on the project related documents and plan.(sprint1)</li>
+<li>Phase 2 team works on the deliverables to ensure progress.(sprint2)</li>
+<li>Phase 3 team ensures the assigned work is delivered on time.(sprint3)</li>
+<li>Phase 4 team oversees for any changes and project progress.(sprint4)</li>
+<li>Project reflections and discussions during last day of the project.</li>
 <br>
 <h3>Budget</h3><hr />
 <p>Free of Cost</p>
