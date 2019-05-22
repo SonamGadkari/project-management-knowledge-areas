@@ -60,7 +60,7 @@ User can login and take the quizes whenever they want.</p>
   </tr>
   <tr>
     <td>Harika Naidu</td>
-    <td>Developer</td> 
+    <td>Project Manager</td> 
     <td>
     Applied Computer Science</td>
 	 <td>Internal</td> 
@@ -69,7 +69,7 @@ User can login and take the quizes whenever they want.</p>
   </tr>
   <tr>
     <td>Havya Ravipati</td>
-    <td>Developer</td> 
+    <td>Team Lead</td> 
     <td>
 	Applied Computer Science</td>
 	 <td>Internal</td> 
@@ -78,7 +78,7 @@ User can login and take the quizes whenever they want.</p>
   </tr>
 <tr>
     <td>KeerthiSree kukkunoor</td>
-    <td>Developer</td> 
+    <td>UI developer</td> 
     <td>
 	Applied Computer Science</td>
 	 <td>Internal</td> 
