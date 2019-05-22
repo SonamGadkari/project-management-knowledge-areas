@@ -27,9 +27,33 @@ User can login and take the quizes whenever they want.</p>
  <li>Havya Ravipati</li>
 <br>
 <h2>Stories by Role</h2><hr />
-
-
-
+<table style="width:100%;border: 1px solid black;">
+  <tr>
+    <th>Name of the StakeHolder</th>
+    <th>Role in the project</th> 
+    <th>Resposibility</th>
+  </tr>
+	<tr>
+<td>Harika Naidu</td>
+    <td>Project Manager</td>
+    <td>Planning, scheduling, coordinating, and working with team and the client/project sponsor to achieve project goals</td> 
+	</tr>
+	<tr>
+<td>Havya Ravipati</td>
+    <td>Team lead</td> 
+    <td>Assemble the team mates with various combination of skills to fulfill the goals, Strategy Development, Assigning tasks, Progress montoring and also acting as a team member.</td>
+	</tr>
+	<tr>
+	<td>Sonam Gadekari</td>
+    <td>Web developer</td> 
+    <td>Designing, coding and modifying websites, from layout to function and according to a client's specifications.</td>
+	</tr>
+	<tr>
+		<td>Keerthi sree Kukunoor/td>
+    <td>UI Developer</td> 
+    <td>Attempt to create visually appealing sites that feature user-friendly design and clear navigation</td>
+		</tr>	
+	
 <h2>Stake Holder Registry</h2><br>
 <table style="width:100%;border: 1px solid black;">
   <tr>
