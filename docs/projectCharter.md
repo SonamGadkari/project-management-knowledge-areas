@@ -98,5 +98,10 @@ h2>Stake Holder Registry</h2><br>
 <li>Phase 4 finalized and published at the end of week 8.(sprint4)</li>
 <li>Project reflections and discussions during week 8.</li>
 <br>
+<h3>Budget</h3><hr />
+<p>Free of Cost</p>
 
+<h2>Project Scope:</h2><hr />
+<p> During <b>Phase 1</b>, Project Initiation
+<p>The team members work independently</p>
 
