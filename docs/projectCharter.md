@@ -12,3 +12,9 @@
         <a class="navbar-brand js-scroll-trigger" href="#">           
             Project Charter: Online Food Delivering App
         </a>
+</nav>
+</div>
+<br />
+<br />
+<div class="container">
+<h2>Project Information:</h2><hr />
