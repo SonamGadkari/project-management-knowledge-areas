@@ -53,6 +53,7 @@ User can login and take the quizes whenever they want.</p>
     <td>UI Developer</td> 
     <td>Attempt to create visually appealing sites that feature user-friendly design and clear navigation</td>
 		</tr>	
+	</table>
 	
 <h2>Stake Holder Registry</h2><br>
 <table style="width:100%;border: 1px solid black;">
