@@ -27,7 +27,7 @@ We have planned to use Skype for business or our emails as the primary way of co
 
 ## Team Meeting:
 
-We have planned to conduct our meeting in B.D.Owens Library on every tuesday and thursday from 11:50 AM to 12:50 AM. We will stay in contact through 
+We have planned to conduct our meeting in B.D.Owens Library on every tuesday and thursday from 11:50 AM to 12:50 AM. If emergency, we have decided to use the personal mobile numbers as a medium of communication 
 
 ## Roles:
 
@@ -54,14 +54,18 @@ Attempt to create visually appealing sites that feature user-friendly design and
 
 ## Link to Project charter page:
 
+https://github.com/SonamGadkari/project-management-knowledge-areas/blob/master/docs/projectCharter.md
+
 
 ## Link to Stakeholder registry: 
 
 
 
-Signatures:
+
+# Signatures:
 
 Havya Ravipati
+Keerthi sree Kukunoor
 
 
 
