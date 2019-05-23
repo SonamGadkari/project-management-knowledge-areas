@@ -1,7 +1,10 @@
 # Project Title: project-management-knowledge-areas
 
 ## Project Description:
-This is an interactive website to help Northwest Missouri students understand Project management process groups and knowledge areas.Using this web application a student/learner can take a quiz on knowledge areas and process groups and read more about these topics.If a student/learner get a score of 90% ,a certificate of learning would be issued acknowledging a student efforts. This project helps students understand 10 Knowledge Areas and 5 process groups. The web site especially help students learn all 5 Process Groups (initiating, planning, executing, monitoring & controlling, and control).
+This is an interactive website to help Northwest Missouri students understand Project management process groups and knowledge areas.Using this web application a student/learner can take a quiz on project integration management and process groups.If a student/learner get a score of 70% result will be displayed as pass.A student have scope to retake the exam. This project helps students understand Project Integration Management Knowledge Area and 5 process groups (initiating, planning, executing, monitoring & controlling, and control).
+
+## Project Future Enhancements:
+At a later point we would like to enhance the application to handle 10 knowledge areas and 5 process group in detail.User have scope to read more on the topics. We would like to add more number of questions say 20 to 30 questions in a single quiz.If a student/learner get a score of 90% ,a certificate of learning will be issued acknowledging a student efforts.
 
 ## Project Repository:
 https://github.com/SonamGadkari/project-management-knowledge-areas
@@ -39,19 +42,19 @@ UI developer: Keerthi sree Kukunoor (s533570@nwmissouri.edu) <br>
 
 ## Project Manager: Harika Naidu Responsibilities 
 
-planning, scheduling, coordinating, and working with team and the client/project sponsor to achieve project goals
+ Initiation, Planning, scheduling, coordinating, and working with team and the client/project sponsor to achieve project goals Works on the User login and admin login of an application. Role is developer.
 
 ## Team lead: Havya Ravipati Responsibilities 
 
-Assemble the team mates with various combination of skills to fulfill the goals, Strategy Development, Assigning tasks, Progress montoring and also acting as a team member.
+ Co-ordinate with the team mates to fulfill the goals, Strategy Development, Assigning tasks, Progress monitoring and also acting as a team member.
 
 ## Web Developer: Sonam Gadekari Responsibilities 
 
-Designing, coding and modifying websites, from layout to function and according to a client's specifications. 
+Works on the Home page, Login page of the application and quiz pages.Designing, coding and modifying websites, from layout to function and according to a client's specifications. 
 
 ## UI Developer: Keerthi sree Kukunoor Responsibilities 
 
-Attempt to create visually appealing sites that feature user-friendly design and clear navigation
+Attempt to create visually good sites that feature universal usability and proper navigation. Assist the team.
 
 ## Link to Project charter page:
 
