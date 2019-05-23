@@ -18,8 +18,8 @@
 <br />
 <div class="container">
 <h2>Project Information:</h2><hr />
-<p>Using this website a learner can take a quiz on knowledge areas and process groups and read more about the topics.This project helps students understand 10 Knowledge Areas and 5 process groups.If a student/learner get a score of 90% ,a certificate of learning would be issued acknowledging a student efforts. The implementation employs HTML,CSS,Javascript,Node.Js,Express and Bootstrap. Using this web application students can browse through list of available Project management quizes in the website.
-User can login and take the quizes whenever they want.</p>
+<p>This is an interactive website to help Northwest Missouri students understand Project management process groups and knowledge areas.Using this web application a student/learner can take a quiz on project integration management and process groups.If a student/learner get a score of 70% result will be displayed as pass.A student have scope to retake the exam. This project helps students understand Project Integration Management Knowledge Area and 5 process groups (initiating, planning, executing, monitoring & controlling, and control).</p>
+
 <h2>Project Team</h2><hr />
  <li>Sonam Gadekari</li>
  <li>Harika Naidu</li>
@@ -123,6 +123,9 @@ User can login and take the quizes whenever they want.</p>
 <br>
 <h3>Budget</h3><hr />
 <p>Free of Cost</p>
+
+<h2>Project Future Enhancements:</h2>
+<p>At a later point we would like to enhance the application to handle 10 knowledge areas and 5 process group in detail.User have scope to read more on the topics. We would like to add more number of questions say 20 to 30 questions in a single quiz.If a student/learner get a score of 90% ,a certificate of learning will be issued acknowledging a student efforts.</P>
 
 <h2>Project Scope:</h2><hr />
 <p> During <b>Phase 1</b>, Project Initiation
