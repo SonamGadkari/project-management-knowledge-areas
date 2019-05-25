@@ -2,7 +2,7 @@
 
 ## Scope Statement:
 
- |Scope Statement
+ Scope |Scope Statement
 ---|---|
 **Project Title:** | Project Management Knowledge Areas
 **Date:** | 5/23/2019
