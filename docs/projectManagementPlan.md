@@ -31,3 +31,18 @@ Sonam Gadekari |Works on the Home page, Login page of the application and quiz p
 Havya Ravipati |Co-ordinate with the team mates to fulfill the goals, Strategy Development, Assigning tasks, Progress monitoring and also acting as a team member.
 Keerthi Sree Kukunoor |Attempt to create visually good sites that feature universal usability design and proper navigation. Assist the team.
 Harika Naidu |Initiation, Planning, scheduling, coordinating, and working with team and the client/project sponsor to achieve project goals Works on the User login and admin login of an application. Role is developer.
+
+### Managerial Process/Management Objectives and Priorities: 
+
+1. Collecting the list of all task.
+2. Assess the values for tasks.
+3. Order tasks by estimated effort.
+4. Be flexible and adaptable
+
+## Technical Process Plan:
+
+### Tools and technologies:
+Project Libre, Gantt charts, HTML, CSS, Node, Javascript, Visual studio, Microsoft Office, 
+
+### Software documents:
+All the documents like Product acceptace plan, daily scrum, management plans, sprint reviews are needed to be rreviewed by the project managers.
