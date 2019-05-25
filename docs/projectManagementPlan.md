@@ -46,7 +46,7 @@ Harika Naidu |Initiation, Planning, scheduling, coordinating, and working with t
 ## Technical Process Plan:
 
 ### Tools and technologies:
-Project Libre, Gantt charts, HTML, CSS, Node, Javascript, Visual studio, Microsoft Office, 
+Project Libre, Gantt charts, HTML, CSS, Node, Javascript, Visual studio, Microsoft Office, JIRA, Agile
 
 ### Software documents:
 All the documents like Product acceptace plan, daily scrum, management plans, sprint reviews are needed to be rreviewed by the project managers.
