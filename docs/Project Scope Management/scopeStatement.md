@@ -1,8 +1,8 @@
 # Project Scope Management:
 
-## 2.2 Scope Statement:
+## Scope Statement:
 
- 2.2|Scope Statement
+ Scope |Scope Statement
 ---|---|
 **Project Title:** | Project Management Knowledge Areas
 **Date:** | 5/23/2019
