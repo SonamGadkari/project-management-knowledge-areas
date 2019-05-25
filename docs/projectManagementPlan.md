@@ -3,7 +3,7 @@
 
 MAJOR SECTION HEADINGS|SECTION TOPIC|
 ---|---|
-1 |The Web Application is supposed to have a simple User Interface |High|Functional
+Overview |The project purpose, scope and objectives; Assumptions and constraints; ptoject deliverables; Schedule and budget summary; Evolution of the plan. 
 2 |The Web Application should a have a login and register page |High|Functional
 3 |The user should be able to retake the quiz as many times as he/she wishes|High|Functional
 4 |The user is directly taken to the retake page, if the score is less than 70%|High|Functional
