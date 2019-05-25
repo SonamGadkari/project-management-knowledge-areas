@@ -33,7 +33,8 @@ Keerthi Sree Kukunoor |Attempt to create visually good sites that feature univer
 Harika Naidu |Initiation, Planning, scheduling, coordinating, and working with team and the client/project sponsor to achieve project goals Works on the User login and admin login of an application. Role is developer.
 
 ### Organizational Plan:
-![Organizational Structure](https://user-images.githubusercontent.com/42949313/58364017-13cc3680-7e73-11e9-8995-48b0778e7814.PNG)
+
+![sonam](https://user-images.githubusercontent.com/43020059/58364324-7d9b0f00-7e78-11e9-9f51-a650f32e78bb.JPG)
 
 ### Managerial Process/Management Objectives and Priorities: 
 
