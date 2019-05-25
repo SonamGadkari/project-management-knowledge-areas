@@ -7,7 +7,7 @@ following are major processes:
 the resources needed to complete project activities.
 3. Cost Budgeting—allocating the overall cost estimate to individual work
 items.
-4. Cost Control—controlling changes to the project budget
+4. Cost Control—controlling changes to the project budget <br>
 The budget of the project is $871,028. The project manager will accordingly allocate the budget to each of department, depending on the number of resources, usage, roles and responsibilities. 
 
 # Detailed Cost Estimation and Budget:
