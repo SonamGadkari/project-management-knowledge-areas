@@ -28,9 +28,6 @@ Project Charter, Project management plan, Requirements specifications document, 
 Name|Roles and Responsibilities|
 ---|---|
 Sonam Gadekari |Works on the Home page, Login page of the application and quiz pages.Designing, coding and modifying websites, from layout to function and according to a client's specifications.
-
 Havya Ravipati |Co-ordinate with the team mates to fulfill the goals, Strategy Development, Assigning tasks, Progress monitoring and also acting as a team member.
-
 Keerthi Sree Kukunoor |Attempt to create visually good sites that feature universal usability design and proper navigation. Assist the team.
-
 Harika Naidu |Initiation, Planning, scheduling, coordinating, and working with team and the client/project sponsor to achieve project goals Works on the User login and admin login of an application. Role is developer.
