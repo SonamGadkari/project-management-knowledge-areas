@@ -3,14 +3,9 @@
 
 MAJOR SECTION HEADINGS|SECTION TOPIC|
 ---|---|
-Overview |The project purpose, scope and objectives; Assumptions and constraints; ptoject deliverables; Schedule and budget summary; Evolution of the plan. 
+Overview |The project purpose, scope and objectives; Assumptions and constraints; project deliverables; Schedule and budget summary; Evolution of the plan. 
 Prject Oraganization |External interfaces; Internal Structure; Roles and responsibilities.
-3 |The user should be able to retake the quiz as many times as he/she wishes|High|Functional
-4 |The user is directly taken to the retake page, if the score is less than 70%|High|Functional
-5 |The user should be able to view his/her score after each attempt|High|Functional
-6 |The login and register page is suppose to have authentication|Medium|Feature
-7 |The user sould be able to select the number of questions|Low|Feature
-8 |The user should be able to alter his/her profile when ever needed|Low|Feature
-9 |The user should be shown the right answer for every question after completion of the exam|Low|Feature
-10|The users should be able to rate the web app, if they choose to|Low|Function
+Managerial Process Plan |Start-up plan; Work plan; Schedule; Resources; Control plan; Risk management plan; close out plan.
+Technical Process Plan |Process model; Methods; Tools and techniques used; Infrastructure plan; Product acceptace plan.
+Supporting Process Plan |Cofiguration management plan; Verification and validation paln; Documentation plan; Quality assurance plan; Reviews and audits; Problem resolution plan; Subcontractor management plan; Process improvement plan.
 
