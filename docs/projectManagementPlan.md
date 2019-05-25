@@ -32,6 +32,9 @@ Havya Ravipati |Co-ordinate with the team mates to fulfill the goals, Strategy D
 Keerthi Sree Kukunoor |Attempt to create visually good sites that feature universal usability design and proper navigation. Assist the team.
 Harika Naidu |Initiation, Planning, scheduling, coordinating, and working with team and the client/project sponsor to achieve project goals Works on the User login and admin login of an application. Role is developer.
 
+### Organizational Plan:
+![Organizational Structure](https://user-images.githubusercontent.com/42949313/58364017-13cc3680-7e73-11e9-8995-48b0778e7814.PNG)
+
 ### Managerial Process/Management Objectives and Priorities: 
 
 1. Collecting the list of all task.
