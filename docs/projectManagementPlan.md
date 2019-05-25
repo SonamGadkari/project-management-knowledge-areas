@@ -4,7 +4,7 @@
 MAJOR SECTION HEADINGS|SECTION TOPIC|
 ---|---|
 Overview |The project purpose, scope and objectives; Assumptions and constraints; ptoject deliverables; Schedule and budget summary; Evolution of the plan. 
-2 |The Web Application should a have a login and register page |High|Functional
+Prject Oraganization |External interfaces; Internal Structure; Roles and responsibilities.
 3 |The user should be able to retake the quiz as many times as he/she wishes|High|Functional
 4 |The user is directly taken to the retake page, if the score is less than 70%|High|Functional
 5 |The user should be able to view his/her score after each attempt|High|Functional
