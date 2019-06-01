@@ -30,3 +30,11 @@ Project Libre helps in creating Gantt charts and Network with the help of Work B
 ### Updating the communications management plan
 
 Communications management plan can be updated using collaborative tools like sharepoint, SVN and google tools like google docs, google slides, google calenders, google drive, google gamil, google sheets, and google sites.
+
+
+### Stakeholder communications analysis
+ 
+Stakeholders|Document Name|Document Format|Contact Person|Due Date|
+---|---|--|--|--|
+Program Manager	|Project status report |Email |nagaharika.n@gmail.com |Every week
+Project Manager |Project status report |Email |nagaharika.n@gmail.com |Every week
