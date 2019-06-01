@@ -15,3 +15,10 @@ The primary communicator for project distribution information is the project man
 ### Key information of the project
 
 The key project information will follow a standard template and is provided in the online sharepoint. The template should says what content should be included in it. The level of detail can be decided depending on the individual persons accessing it.
+
+
+### Production schedule and resources for producing key project information
+
+Status and progress reports of the project are submitted to stakeholders. These reports helps the stakeholders to know the status of the project and how project team members are utilized the resources and also helps project managers to track schedule activities/tasks and resources that are using in the project. These status reports also provides the information about where the project stands.
+
+
