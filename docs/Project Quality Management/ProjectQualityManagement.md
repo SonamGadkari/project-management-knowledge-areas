@@ -1,4 +1,4 @@
-## Quality Management:
+# Quality Management:
 Quality management is the process for ensuring that all project activities necessary to design, plan and implement a project are effective and efficient with respect to the purpose of the objective and its performance.
 The goals for quality management are to assure Project deliverables meet their stated requirements and Project management processes are appropriately followed.
 Quality management is performed throughout the project lifecycle with special attention to:
@@ -7,7 +7,7 @@ Quality management is performed throughout the project lifecycle with special at
 3.	Quality Control  – primarily during the project monitoring and controlling process.
 4.	Verification and Validation – ideally performed in all project processes except initiation.
 
-# quality Metrics: 
+## quality Metrics: 
 Quality metrics are a key component of an effective quality management plan and are the measurements used in ensuring customers receive acceptable products or deliverables.
 Following are the metrics used to measure quality:
 1. Passed Test Cases Percentage = (Number of Passed Tests/Total number of tests executed) * 100 
@@ -27,10 +27,10 @@ Following are the metrics used to measure quality:
 | 2    | Mid-level Defects     | Bugs, Integration issues                                      | Exactly when modules are united together and attempted on a whole a couple issues may develop so the testing gathering should have enough learning of the extensive number of modules|                                          
 | 3    | Low-level Defects     | Hard-disk specifications                         | Screen resolution of the PCs won't not be awesome which may not be a tremendous issue but instead work should be conceivable better if it is as per the particulars|
 
-# Quality Checklists:
+## Quality Checklists:
 
 
-# Roles and responsibilities:
+## Roles and responsibilities:
 
 Name | Role | Quality Responsibility |
 -----|------|-------|
@@ -39,7 +39,7 @@ Keerthi sree Kukunoor| UI developer | Quality Assurance |
 Havya Ravipati | Team Lead | Quality Auditor |
 Harika Naidu| Project Manager | Quality Monitoring |
 
-# Quality Tools:
+## Quality Tools:
 The following are examples of tools that can be used to support quality management implementation
 - Cost-Benefit Analysis: Compares the cost of the quality process to the expected benefit
 - Control Charts : Used to determine if a process is stable or predictable, within limits
