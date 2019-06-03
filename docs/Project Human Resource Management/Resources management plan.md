@@ -7,12 +7,11 @@ ID|Sonam| Harika| Havya| Keerthi|
 1 | **Initiation** | |<p>RP</p>| |
 2 | **Planning**   | | |<p> RP</p>|
 3 | **Design**|<p>P</p>|<p>R</p>| |
-4 | **Development**|<p>R</p>| | |
-5 | **Testing**|<p>R</p>| | |
-6 | **Deployment or Release**| | | |
-7 | **Defect fixing**| | | |
-8 | **Enhancements**| | | |
-9 | ** | | | |
+4 | **Development**|<p>R</p>| | <p>P</p>|
+5 | **Testing**|<p>R</p>| | <p>P</p>|
+6 | **Deployment or Release**| <p>R</p>| |<p>P</p> |
+7 | **Defect fixing**| | <p>R</p>|<p>R</p>|
+8 | **Enhancements**|<p>P</p> |<p>R</p> | |
 
 
 R=Responsible member in the project <br/>
