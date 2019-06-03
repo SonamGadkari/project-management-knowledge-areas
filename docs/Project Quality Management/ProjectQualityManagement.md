@@ -35,7 +35,7 @@ Following are the metrics used to measure quality:
 | 3    | Low-level Defects     | Hard-disk specifications                         | Screen resolution of the PCs won't not be awesome which may not be a tremendous issue but instead work should be conceivable better if it is as per the particulars|
 
 ## Quality Checklists:
-
+https://docs.google.com/document/d/1_eqGqOj-eV37ggMQOqoI6o4DPPOO4AZhp5SZO7pxGAw/edit?usp=sharing
 
 ## Roles and responsibilities:
 
