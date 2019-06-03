@@ -9,14 +9,14 @@ Quality management is performed throughout the project lifecycle with special at
 
 ## Quality Management Plan:
 
-|What to do | How to do | 
-|-----------|-----------|
-|Identify the total quality objectives for the scope | Indentify the major requirements of the project. Identify the Optional requirements of the project later. Maintain Scope Review checklist throughout the project. |
-|Identify the overall quality for the triple constrains(time,cost,technology) | Identify the quality standards to  give correct techonologies  |
-|Identify the completeness and correctness in the deployed code| 95% defect free standards ensured, ,guideline followed , regular peer reviews and manager reviews|
-|Identify the test strategy to ensure completeness and correctness in testing|Ensure the project team to perform unit testing, intigration testing, system and acceptence testing and proper evidences are provided in the testing management tool|
+S.No|What to do | How to do | 
+|---|-----------|-----------|
+|1. |Identify the total quality objectives for the scope | Indentify the major requirements of the project. Identify the Optional requirements of the project later. Maintain Scope Review checklist throughout the project. |
+|2. |Identify the overall quality for the triple constrains(time,cost,technology) | Identify the quality standards to  give correct techonologies  |
+|3. |Identify the completeness and correctness in the deployed code| 95% defect free standards ensured, ,guideline followed , regular peer reviews and manager reviews|
+|4. |Identify the test strategy to ensure completeness and correctness in testing|Ensure the project team to perform unit testing, intigration testing, system and acceptence testing and proper evidences are provided in the testing management tool|
 
-## Process Impprovement Plan:
+## Process Improvement Plan:
  The process improvement plan is a subsidiary of the project management plan. It involves the steps used to analyze different processes to identify different activities to enhance the value of the processes. Areas include particular are as following:
  - Process boundaries:It describes the start and end of a particular process as well as the outputs, inputs, stakeholders and other necessary information to being the process.
 - Process configuration: it refers to the graphic depiction of the processes. It is used to help facilitate analysis.
