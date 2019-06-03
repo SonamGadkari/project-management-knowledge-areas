@@ -2,6 +2,7 @@
 
 # Responsibility Assignment Matrix
 
+The participation by various roles in completing tasks or deliverables for a project or business process.
 
 R=Responsible member in the project <br/>
 P=Performing member in the project <br/>
