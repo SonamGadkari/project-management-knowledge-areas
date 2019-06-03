@@ -1,4 +1,4 @@
-# Quality Management:
+# Quality Management Plan:
 Quality management is the process for ensuring that all project activities necessary to design, plan and implement a project are effective and efficient with respect to the purpose of the objective and its performance.
 The goals for quality management are to assure Project deliverables meet their stated requirements and Project management processes are appropriately followed.
 Quality management is performed throughout the project lifecycle with special attention to:
@@ -6,6 +6,13 @@ Quality management is performed throughout the project lifecycle with special at
 2.	Quality Assurance  – primarily during the project execution process.
 3.	Quality Control  – primarily during the project monitoring and controlling process.
 4.	Verification and Validation – ideally performed in all project processes except initiation.
+
+## Process Impprovement Plan:
+ The process improvement plan is a subsidiary of the project management plan. It involves the steps used to analyze different processes to identify different activities to enhance the value of the processes. Areas include particular are as following:
+ - Process boundaries:It describes the start and end of a particular process as well as the outputs, inputs, stakeholders and other necessary information to being the process.
+- Process configuration: it refers to the graphic depiction of the processes. It is used to help facilitate analysis.
+- Process metrics: This allows the analysis of the efficiency of the processes. It also includes the use of control limits.
+- Targets for improved performance: This guides the improvement activities of the processes.
 
 ## quality Metrics: 
 Quality metrics are a key component of an effective quality management plan and are the measurements used in ensuring customers receive acceptable products or deliverables.
@@ -47,7 +54,7 @@ The following are examples of tools that can be used to support quality manageme
 - Statistical Sampling : Choosing a representative sample from a population of interest for inspection
 - Cost of Quality : Costs incurred for quality, includes cost of conformance and cost of non-conformance
 - Six Sigma : Improves the quality of process outputs by identifying and removing causes of errors
-- Quality Audits : Compliance with policies, standards, and processes
+
 
 
 
