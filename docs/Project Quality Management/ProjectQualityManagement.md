@@ -23,7 +23,7 @@ Quality management is performed throughout the project lifecycle with special at
 - Process metrics: This allows the analysis of the efficiency of the processes. It also includes the use of control limits.
 - Targets for improved performance: This guides the improvement activities of the processes.
 
-## quality Metrics: 
+## Quality Metrics: 
 Quality metrics are a key component of an effective quality management plan and are the measurements used in ensuring customers receive acceptable products or deliverables.
 Following are the metrics used to measure quality:
 1. Passed Test Cases Percentage = (Number of Passed Tests/Total number of tests executed) * 100 
@@ -46,7 +46,7 @@ Following are the metrics used to measure quality:
 ## Quality Checklists:
 https://docs.google.com/document/d/1_eqGqOj-eV37ggMQOqoI6o4DPPOO4AZhp5SZO7pxGAw/edit?usp=sharing
 
-## Roles and responsibilities:
+## Roles and Responsibilities:
 
 Name | Role | Quality Responsibility |
 -----|------|-------|
