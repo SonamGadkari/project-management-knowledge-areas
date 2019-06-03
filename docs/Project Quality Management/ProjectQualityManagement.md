@@ -44,12 +44,11 @@ The following are examples of tools that can be used to support quality manageme
 - Cost-Benefit Analysis: Compares the cost of the quality process to the expected benefit
 - Control Charts : Used to determine if a process is stable or predictable, within limits
 - Benchmarking : Compares current project processes to comparable projects 
-- Design of Experiments : A statistical method to determine influential factors on a product or process
 - Statistical Sampling : Choosing a representative sample from a population of interest for inspection
 - Cost of Quality : Costs incurred for quality, includes cost of conformance and cost of non-conformance
 - Six Sigma : Improves the quality of process outputs by identifying and removing causes of errors
 - Quality Audits : Compliance with policies, standards, and processes
-- Process Analysis : Planned continuous improvement of processes
+
 
 
 
