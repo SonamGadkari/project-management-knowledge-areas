@@ -16,7 +16,7 @@
 	<th>Type of StakeHolder</th>
 	<th>Expectations</th>
 	<th>Contact Info</th>
-  </tr>
+  </tr> 
   <tr>
     <td>Dr.Denise Case</td>
     <td>Mentor</td> 
