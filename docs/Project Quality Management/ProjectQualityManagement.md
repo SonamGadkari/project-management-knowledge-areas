@@ -39,9 +39,9 @@ Following are the metrics used to measure quality:
 
 | S No | Defect Level       | Defect Name                                | Measurements|
 |------|--------------------|--------------------------------------------|-------------|
-| 1    | High-Level Defects    | Not allocating work to individual, Planning errors                           | Project Manager should have a better than average data of the partners and their abilities and dole out work in like way|
+| 1    | High-Level Defects    | Not allocating work to individual group, Planning errors                           | Project Manager should have a better than average data of the partners and their abilities and dole out work in like way|
 | 2    | Mid-level Defects     | Bugs, Integration issues                                      | Exactly when modules are united together and attempted on a whole a couple issues may develop so the testing gathering should have enough learning of the extensive number of modules|                                          
-| 3    | Low-level Defects     | Hard-disk specifications                         | Screen resolution of the PCs won't not be awesome which may not be a tremendous issue but instead work should be conceivable better if it is as per the particulars|
+| 3    | Low-level Defects     | Hard-disk specifications                         | Screen resolution of the PCs are not be a tremendous issue but instead work should be conceivable better if it is as per the particulars|
 
 ## Quality Checklists:
 https://docs.google.com/document/d/1_eqGqOj-eV37ggMQOqoI6o4DPPOO4AZhp5SZO7pxGAw/edit?usp=sharing
