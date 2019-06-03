@@ -22,9 +22,7 @@ P=Performing member in the project <br/>
 # Testing: Responsibility Accountability Consultation Informed Chart(RACI).
 
 ID|Test Phase|Sonam|Harika|Havya|Keerthi|
-
 ---|---|---|---|---|---|
-
 1 | **Test Plans** | <p></p>| | | |
 2 | **Unit Test**  | <p>Sonam</p>| | | |
 3 | **Integration Test**|<p>C</p>| | | |
