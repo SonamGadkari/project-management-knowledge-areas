@@ -2,23 +2,28 @@
 
 # Responsibility Assignment Matrix
 
-Sonam|Harika|Havya|Keerthi
----|---|---|---|
-1 | **Initiation ** | |<p>RP</p>| |
-2 | **Planning  **| | |<p> RP</p>| |
-3 | **Design **|<p>P</p>|<p>R</p>| | |
+|Sonam|Harika|Havya|Keerthi
+---|---|---|---|---|
+1 | **Initiation** | |<p>RP</p>| |
+2 | **Planning**| | |<p> RP</p>| |
+3 | **Design**|<p>P</p>|<p>R</p>| | |
 4 | **Development**|<p>R</p>|
+5 | **Testing**|<p>R</p>|
+6 | **Deployment or Release**||
+7 | **Defect fixing**||
+8 | **Enhancements**||
+9 | ** ||
 
 
 
-R=Responsible member in the project
-P=Performing member in the project
+R=Responsible member in the project <br/>
+P=Performing member in the project <br/>
 
-# Responsibility Accountability Consultation Informed Chart.
+# Testing: Responsibility Accountability Consultation Informed Chart(RACI).
 
-Sonam|Harika|Havya|Keerthi
----|---|---|---|
-1 | **Test Plans** | <p>We would be using Brainstorming and interviewing as tools for identifying the risks. </p>|
+|Test Phase|Sonam|Harika|Havya|Keerthi
+---|---|---|---|---|---|
+1 | **Test Plans** | <p></p>|
 2 | **Unit Test**  | <p>Sonam</p>|
 3 | **Integration Test**|<p>C</p>|
 4 | **System Test**|<p>I</p>|
