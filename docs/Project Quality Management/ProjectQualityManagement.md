@@ -14,7 +14,7 @@ S.No|What to do | How to do |
 |1. |Identify the total quality objectives for the scope | Indentify the major requirements of the project. Identify the Optional requirements of the project later. Maintain Scope Review checklist throughout the project. |
 |2. |Identify the overall quality for the triple constrains(time,cost,technology) | Identify the quality standards to  give correct techonologies  |
 |3. |Identify the completeness and correctness in the deployed code| 95% defect free standards ensured, ,guideline followed , regular peer reviews and manager reviews|
-|4. |Identify the test strategy to ensure completeness and correctness in testing|Ensure the project team to perform unit testing, intigration testing, system and acceptence testing and proper evidences are provided in the testing management tool|
+|4. |Identify the best test strategy to ensure completeness and correctness in testing|Ensure the project team to perform unit testing, intigration testing, system and acceptence testing and proper evidences are provided in the testing management tool|
 
 ## Process Improvement Plan:
  The process improvement plan is a subsidiary of the project management plan. It involves the steps used to analyze different processes to identify different activities to enhance the value of the processes. Areas include particular are as following:
