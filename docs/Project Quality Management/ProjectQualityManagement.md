@@ -1,4 +1,4 @@
-# Quality Management Plan:
+# Quality Management:
 Quality management is the process for ensuring that all project activities necessary to design, plan and implement a project are effective and efficient with respect to the purpose of the objective and its performance.
 The goals for quality management are to assure Project deliverables meet their stated requirements and Project management processes are appropriately followed.
 Quality management is performed throughout the project lifecycle with special attention to:
@@ -6,6 +6,15 @@ Quality management is performed throughout the project lifecycle with special at
 2.	Quality Assurance  – primarily during the project execution process.
 3.	Quality Control  – primarily during the project monitoring and controlling process.
 4.	Verification and Validation – ideally performed in all project processes except initiation.
+
+## Quality Management Plan:
+
+|What to do | How to do | 
+|-----------|-----------|
+|Identify the total quality objectives for the scope | Indentify the major requirements of the project. Identify the Optional requirements of the project later. Maintain Scope Review checklist throughout the project. |
+|Identify the overall quality for the triple constrains(time,cost,technology) | Identify the quality standards to  give correct techonologies  |
+|Identify the completeness and correctness in the deployed code| 95% defect free standards ensured, ,guideline followed , regular peer reviews and manager reviews|
+|Identify the test strategy to ensure completeness and correctness in testing|Ensure the project team to perform unit testing, intigration testing, system and acceptence testing and proper evidences are provided in the testing management tool|
 
 ## Process Impprovement Plan:
  The process improvement plan is a subsidiary of the project management plan. It involves the steps used to analyze different processes to identify different activities to enhance the value of the processes. Areas include particular are as following:
