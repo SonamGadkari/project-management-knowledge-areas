@@ -2,6 +2,11 @@
 
 # Responsibility Assignment Matrix
 
+
+R=Responsible member in the project <br/>
+P=Performing member in the project <br/>
+
+
 ID|Sonam| Harika| Havya| Keerthi|
 ---|---|---|---|---|
 1 | **Initiation** | |<p>RP</p>| |
@@ -14,11 +19,13 @@ ID|Sonam| Harika| Havya| Keerthi|
 8 | **Enhancements**|<p>P</p> |<p>R</p> | |
 
 
-R=Responsible member in the project <br/>
-P=Performing member in the project <br/>
-
 
 # Testing: Responsibility Accountability Consultation Informed Chart(RACI).
+
+R = responsibility
+A = accountability, only one A per task
+C = consultation
+I = informed
 
 ID|Test Phase|Sonam(Home Page)|Harika(Login Page)|Havya(Quiz Page)|Keerthi(Results page)|
 ---|---|---|---|---|---|
@@ -28,9 +35,6 @@ ID|Test Phase|Sonam(Home Page)|Harika(Login Page)|Havya(Quiz Page)|Keerthi(Resul
 4 | **System Test**| <p>I</p>|<p>I</p> |<p>R</p>|<p>A</p> |
 5 | **User Acceptance Test**|<p>C</p> | <p>R</p>|<p>I </p>| <p>R</p>|
 
-R = responsibility
-A = accountability, only one A per task
-C = consultation
-I = informed
+
 
 
