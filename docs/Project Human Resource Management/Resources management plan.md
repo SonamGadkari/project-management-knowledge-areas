@@ -2,17 +2,17 @@
 
 # Responsibility Assignment Matrix
 
-    Sonam| Harika| Havya| Keerthi|
+    |Sonam| Harika| Havya| Keerthi|
 ---|---|---|---|---|
 1 | **Initiation** | |<p>RP</p>| |
-2 | **Planning**| | |<p> RP</p>| |
-3 | **Design**|<p>P</p>|<p>R</p>| | |
-4 | **Development**|<p>R</p>|
-5 | **Testing**|<p>R</p>|
-6 | **Deployment or Release**||
-7 | **Defect fixing**||
-8 | **Enhancements**||
-9 | ** ||
+2 | **Planning**   | | |<p> RP</p>|
+3 | **Design**|<p>P</p>|<p>R</p>| |
+4 | **Development**|<p>R</p>| | |
+5 | **Testing**|<p>R</p>| | |
+6 | **Deployment or Release**| | | |
+7 | **Defect fixing**| | | |
+8 | **Enhancements**| | | |
+9 | ** | | | |
 
 
 
