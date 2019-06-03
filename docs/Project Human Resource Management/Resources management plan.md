@@ -22,8 +22,8 @@ ID|Sonam| Harika| Havya| Keerthi|
 
 # Testing: Responsibility Accountability Consultation Informed Chart(RACI).
 
-R = responsibility
-A = accountability, only one A per task
+R = Responsibility
+A = Accountability, only one A per task
 C = consultation
 I = informed
 
