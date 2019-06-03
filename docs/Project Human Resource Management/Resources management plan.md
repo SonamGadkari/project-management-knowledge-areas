@@ -2,7 +2,7 @@
 
 # Responsibility Assignment Matrix
 
-    |Sonam|Harika|Havya|Keerthi|
+    |Sonam|Harika|Havya|Keerthi
 ---|---|---|---|---|
 1 | **Initiation** | |<p>RP</p>| |
 2 | **Planning**| | |<p> RP</p>| |
