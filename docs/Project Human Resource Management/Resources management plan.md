@@ -14,7 +14,7 @@ Sonam|Harika|Havya|Keerthi
 R=Responsible member in the project
 P=Performing member in the project
 
-# Responsibility Accountability Consultation Informed Chart
+# Responsibility Accountability Consultation Informed Chart.
 
 Sonam|Harika|Havya|Keerthi
 ---|---|---|---|
