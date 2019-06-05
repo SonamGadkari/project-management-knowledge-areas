@@ -25,6 +25,8 @@ S.No|What to do | How to do |
 
 ## Quality Metrics: 
 Citation: https://www.guru99.com/software-testing-metrics-complete-tutorial.html
+<br>
+
 Quality metrics are a key component of an effective quality management plan and are the measurements used in ensuring customers receive acceptable products or deliverables.
 Following are the metrics used to measure quality:
 1. Passed Test Cases Percentage = (Number of Passed Tests/Total number of tests executed) * 100 
@@ -33,10 +35,7 @@ Following are the metrics used to measure quality:
 4. Accepted Defects Percentage = (Defects Accepted as valid by team/Total defects reported)*100
 5. Executed Tests or Test Execution Coverage Percentage=(Number of tests run/Total number of tests to be run)*100
 6. Requirements Coverage = (Number of requirements covered/Total number of requirements)*100
-7. Number of bugs per test = Total number of defects/Total number of tests
-8. Number of tests run per time period = Number of tests run/Total time
-9. Test design efficiency = Number of tests designed/Total time
-10. Bug find rate = Total number of defects/Total number of test hours
+
 
 | S No | Defect Level       | Defect Name                                | Measurements|
 |------|--------------------|--------------------------------------------|-------------|
