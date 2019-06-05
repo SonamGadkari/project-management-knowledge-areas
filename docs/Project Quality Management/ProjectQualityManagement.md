@@ -24,6 +24,7 @@ S.No|What to do | How to do |
 - Targets for improved performance: This guides the improvement activities of the processes.
 
 ## Quality Metrics: 
+Citation: https://www.guru99.com/software-testing-metrics-complete-tutorial.html
 Quality metrics are a key component of an effective quality management plan and are the measurements used in ensuring customers receive acceptable products or deliverables.
 Following are the metrics used to measure quality:
 1. Passed Test Cases Percentage = (Number of Passed Tests/Total number of tests executed) * 100 
