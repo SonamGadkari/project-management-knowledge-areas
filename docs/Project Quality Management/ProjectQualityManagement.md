@@ -1,6 +1,4 @@
 # Quality Management:
-Quality management is the process for ensuring that all project activities necessary to design, plan and implement a project are effective and efficient with respect to the purpose of the objective and its performance.
-
 
 Quality management is performed throughout the project lifecycle with special attention to:
 1.	Quality Planning – primarily during the project planning process.
@@ -17,12 +15,7 @@ S.No|What to do | How to do |
 |3. |Identify the completeness and correctness in the deployed code| 95% defect free standards ensured, ,guideline followed , regular peer reviews and manager reviews|
 |4. |Identify the best test strategy to ensure completeness and correctness in testing|Ensure the project team to perform unit testing, intigration testing, system and acceptence testing and proper evidences are provided in the testing management tool|
 
-## Process Improvement Plan:
- The process improvement plan is a subsidiary of the project management plan. It involves the steps used to analyze different processes to identify different activities to enhance the value of the processes. Areas include particular are as following:
- - Process boundaries:It describes the start and end of a particular process as well as the outputs, inputs, stakeholders and other necessary information to being the process.
-- Process configuration: it refers to the graphic depiction of the processes. It is used to help facilitate analysis.
-- Process metrics: This allows the analysis of the efficiency of the processes. It also includes the use of control limits.
-- Targets for improved performance: This guides the improvement activities of the processes.
+
 
 ## Quality Metrics: 
 Citation: https://www.guru99.com/software-testing-metrics-complete-tutorial.html
