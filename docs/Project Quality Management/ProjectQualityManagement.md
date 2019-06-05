@@ -1,6 +1,7 @@
 # Quality Management:
 Quality management is the process for ensuring that all project activities necessary to design, plan and implement a project are effective and efficient with respect to the purpose of the objective and its performance.
-The goals for quality management are to assure Project deliverables meet their stated requirements and Project management processes are appropriately followed.
+
+
 Quality management is performed throughout the project lifecycle with special attention to:
 1.	Quality Planning – primarily during the project planning process.
 2.	Quality Assurance  – primarily during the project execution process.
@@ -43,8 +44,12 @@ Following are the metrics used to measure quality:
 | 2    | Mid-level Defects     | Bugs, Integration issues                                      | Exactly when modules are united together and attempted on a whole a couple issues may develop so the testing gathering should have enough learning of the extensive number of modules|                                          
 | 3    | Low-level Defects     | Hard-disk specifications                         | Screen resolution of the PCs are not be a tremendous issue but instead work should be conceivable better if it is as per the particulars|
 
+Refered from Citation: http://www.thoughtleadersllc.com/2014/09/5-keys-to-successfully-allocating-work-across-your-team/
+
 ## Quality Checklists:
 https://docs.google.com/document/d/1_eqGqOj-eV37ggMQOqoI6o4DPPOO4AZhp5SZO7pxGAw/edit?usp=sharing
+
+Citation(Referred this link to create our version): https://www.examples.com/business/quality-checklist.html
 
 ## Roles and Responsibilities:
 
