@@ -16,6 +16,10 @@ https://github.com/SonamGadkari/project-management-knowledge-areas
 
 Logo developed using https://secure.logomaker.com
 
+## Flowcharts:
+
+All flowcharts in the project are developed using https://www.smartdraw.com/flowchart/flowchart-maker.htm
+
 ## Team Members:
 Havya Ravipati<br>
 Sonam Gadkari<br>
