@@ -62,7 +62,7 @@ Attempt to create visually good sites that feature universal usability and prope
 
 ## Link to Project charter page:
 
-https://github.com/SonamGadkari/project-management-knowledge-areas/blob/master/docs/projectCharter.md
+https://github.com/SonamGadkari/project-management-knowledge-areas/blob/master/docs/Project%20Integration%20Management/projectCharter.md
 
 
 ## Link to Stakeholder registry: 
