@@ -8,7 +8,7 @@ Quality management is performed throughout the project lifecycle with special at
 
 ## Quality Management Plan:
 
-S.No|What to do | How to do | 
+|S.No|What to do | How to do | 
 |---|-----------|-----------|
 |1. |Identify the total quality objectives for the scope | Indentify the major requirements of the project. Identify the Optional requirements of the project later. Maintain Scope Review checklist throughout the project. |
 |2. |Identify the overall quality for the triple constrains(time,cost,technology) | Identify the quality standards to  give correct techonologies  |
