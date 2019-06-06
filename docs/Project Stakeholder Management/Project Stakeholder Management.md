@@ -70,8 +70,8 @@ Planning stakeholder management mainly focuses on determining strategies to invo
 
 ## Stakeholder analysis
 
-Issue Number|Description|Impact of Issue|Reported By|Assigned To|Due Date|Status|Comments|
----|---|--|--|--|--|--|--|
-1.	| Sample Issue Format  | High/Low/Medium/Highest/Lowest(Issue impact on the Quiz application) | Stake holder name| Stake holder name|July 1st 2019|To Do|Ex: Issue incorrectly assigned or Work in progress|
+|Issue Number|Description|Impact of Issue|Reported By|Assigned To|Due Date|Status|Comments|
+|---|---|--|--|--|--|--|--|
+|1.	| Sample Issue Format  | High/Low/Medium/Highest/Lowest(Issue impact on the Quiz application) | Stake holder name| Stake holder name|July 1st 2019|To Do|Ex: Issue incorrectly assigned or Work in progress|
 
 
