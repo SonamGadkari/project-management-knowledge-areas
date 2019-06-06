@@ -1,4 +1,5 @@
 # Project Gantt chart
 
-![Gantt Chart](https://user-images.githubusercontent.com/42949313/58779004-22fd6380-859a-11e9-9a9d-27b71c28e65d.JPG)
-![Gannt Chart Continuity](https://user-images.githubusercontent.com/42949313/58779008-27298100-859a-11e9-84c9-1c46235ac69c.JPG)
+![image](https://user-images.githubusercontent.com/43020059/59009599-db721400-87f3-11e9-8855-e22399157b77.png)
+
+![image](https://user-images.githubusercontent.com/43020059/59009623-ef1d7a80-87f3-11e9-9379-f6322197e868.png)
