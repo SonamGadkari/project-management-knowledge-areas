@@ -6,8 +6,8 @@ Project Cost Management includes the processes required to ensure that the proje
 3. Cost Budgeting — allocating the overall cost estimate to individual work items.
 4. Cost Control — controlling changes to the project budget.<br>
 
-The budget of the project is $21188.5. The project manager will accordingly allocate the budget to each of department, depending on the number of resources, usage, roles and responsibilities.<br> 
-Total budget is allocated to project manager,Team Lead,UI Developer and Web Developer.Budget is majorly allocated to executing that includes testing and development.10% of total budget is allocated for testing. 15% of budget is allocated to reserves.
+The estimate of the project is $21188.5. The project manager will accordingly allocate the budget to each of department, depending on the number of resources, usage, roles and responsibilities.<br> 
+Total estimates are allocated to project manager,Team Lead,UI Developer and Web Developer.Cost Estimate is majorly allocated to executing that includes testing and development. 15% of budget is allocated to reserves.
 
 # Detailed Cost Estimation and Budget:
 The detailed cost estimation is provided in the following link <br> 
