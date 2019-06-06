@@ -70,11 +70,8 @@ Planning stakeholder management mainly focuses on determining strategies to invo
 
 ## Stakeholder analysis
 
-Issue Number|Description|Impcat of Issue|Reported By|Assigned To|Due Date|Status|Comments|
+Issue Number|Description|Impact of Issue|Reported By|Assigned To|Due Date|Status|Comments|
 ---|---|--|--|--|--|--|--|
-Sonam Gadekari	| High/High | Web developer | Sonam is organized and she is not very social. She is consistent in doing her work and maintains steadiness |
-Keerti kukunoor	| Low/Low | UI developer | Keerthi needs proper mentoring and monitoring on her tasks. She needs to be guided properly. In case of challenges some one should help her |
-Harika Naidu	| High/Low | Project Manager | Harika is friendly and amicable. She stays connected to all team members to now the status on the progress. |
-Havya Ravipati| High/High | Team  Lead | Havya takes up the challenging opportunities.Maintains steadiness and consistency in the delivarables. |
+1.	| Sample Issue Format  | High/Low/Medium/Highest/Lowest(Issue impact on the Quiz application) | Stake holder name| Stake holder name|July 1st 2019|To Do|Ex: Issue incorrectly assigned or Work in progress|
 
 
