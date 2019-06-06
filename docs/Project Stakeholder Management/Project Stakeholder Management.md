@@ -74,4 +74,6 @@ Planning stakeholder management mainly focuses on determining strategies to invo
 |---|---|--|--|--|--|--|--|
 |1.	| Sample Issue Format  | High/Low/Medium/Highest/Lowest(Issue impact on the Quiz application) | Stake holder name| Stake holder name|July 1st 2019|To Do|Ex: Issue incorrectly assigned or Work in progress|
 
+![image](https://user-images.githubusercontent.com/43020059/59005388-eb352c80-87e2-11e9-824b-356ca7e11d6b.png)
+
 
