@@ -1,5 +1,5 @@
 # Stakeholder Management Plan:
-# Stakeholder Register:
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js">
 </head>
 <body>
-<h2>Stake Holder Registry</h2><br>
+<h2>Stake Holder Register</h2><br>
 <table style="width:100%;border: 1px solid black;">
   <tr>
     <th>Name of the StakeHolder</th>
