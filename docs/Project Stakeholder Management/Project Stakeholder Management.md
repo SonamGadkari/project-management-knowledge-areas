@@ -9,14 +9,14 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js">
 </head>
 <body>
-<h2>Stake Holder Register</h2><br>
+<h2>StakeHolder Register:</h2><br>
 <table style="width:100%;border: 1px solid black;">
   <tr>
     <th>Name of the StakeHolder</th>
-    <th>Role in the project</th> 
+    <th>Position</th> 
 <th>Department</th>
 	<th>Type of StakeHolder</th>
-	<th>Expectations</th>
+	<th>Roles</th>
 	<th>Contact Info</th>
   </tr> 
   <tr>
