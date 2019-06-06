@@ -68,3 +68,4 @@ Planning stakeholder management mainly focuses on determining strategies to invo
 </body>
 </html>
 
+## Stakeholder analysis
