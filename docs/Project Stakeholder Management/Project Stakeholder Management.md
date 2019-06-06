@@ -1,5 +1,5 @@
-# Stakeholder Management Plan:
-
+## Stakeholder Management Plan:
+Planning stakeholder management mainly focuses on determining strategies to involve stakeholders.Team Manager will be in charge of connecting with partners all through the lifecycle of the project Based upon the data assembled in the Stakeholder Analysis Register and Communication Plan.
 <!DOCTYPE html>
 <html lang="en">
 <head>
