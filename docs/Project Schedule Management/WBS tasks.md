@@ -1,5 +1,4 @@
 # Work Breakdown Structure (WBS) Tasks
 
-![image](https://user-images.githubusercontent.com/43020059/59009003-a5cc2b80-87f1-11e9-8a94-df8661276f24.png)
-![image](https://user-images.githubusercontent.com/43020059/59009056-d4e29d00-87f1-11e9-928d-46af9d804127.png)
-
+![image](https://user-images.githubusercontent.com/43020059/59009527-a239a400-87f3-11e9-9002-b291ec6417c3.png)
+![image](https://user-images.githubusercontent.com/43020059/59009570-bf6e7280-87f3-11e9-8ca1-ced5ba16aa9f.png)
